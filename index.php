@@ -16,6 +16,8 @@ echo "Hello";
 
 <html>
 <body>
+    <form>
+
 <div class="rendered-form">
     <div class="formbuilder-text form-group field-input1">
         <label for="input1" class="formbuilder-text-label">x<span class="formbuilder-required">*</span></label>
@@ -50,5 +52,6 @@ echo "Hello";
         <button type="submit" class="btn-default btn" name="btn" access="false" style="default" id="btn">calculate</button>
     </div>
 </div>
+</form>
 </body>
 </html>

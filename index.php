@@ -16,7 +16,7 @@ echo "Hello";
 
 <html>
 <body>
-    <form>
+    <form action= "/result.php">
 
 <div class="rendered-form">
     <div class="formbuilder-text form-group field-input1">

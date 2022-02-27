@@ -1,4 +1,4 @@
 <?php
 
-echo "x =" . $_post["input1"];
+echo "x =" . $_POST["input1"];
 ?>

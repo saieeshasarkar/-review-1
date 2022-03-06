@@ -13,7 +13,7 @@ echo "x+y=". $x+$y . "<br>";
  elseif ( $calc== "multiply") {
     echo "x*y=".  $x*$y. "<br>"; 
 }
-elseif ( $calc== "dvide") {
+elseif ( $calc== "divide") {
     echo "x/y=".  $x/$y. "<br>"; 
 }
 

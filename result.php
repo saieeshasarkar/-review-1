@@ -4,7 +4,7 @@ $y= $_POST ["input2"];
 $calc= $_POST ["calc"];
 echo "x =" . $x . "<br>";
 echo "y =" . $y . "<br>";
-if ($calc=="plus")}
+if ($calc=="plus"){
 echo "x+y=". $x+$y . "<br>";
 }
  elseif ( $calc== "minus") {

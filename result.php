@@ -7,14 +7,14 @@ echo "y =" . $y . "<br>";
 if ($calc=="plus"){
 echo "x+y=". $x+$y . "<br>";
 }
- elseif ( $calc== "minus") {
+ elseif ($calc== "minus") {
      echo "x-y=".  $x-$y. "<br>"; 
  }
  elseif ( $calc== "multiply") {
-    echo "x*y=".  $*$y. "<br>"; 
+    echo "x*y=".  $x*$y. "<br>"; 
 }
 elseif ( $calc== "dvide") {
-    echo "x/y=".  $/$y. "<br>"; 
+    echo "x/y=".  $x/$y. "<br>"; 
 }
 
 

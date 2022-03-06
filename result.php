@@ -2,7 +2,8 @@
 $x= $_POST["input1"];
 $y= $_POST ["input2"]; 
 $calc= $_POST ["calc"];
-echo $calc . "<br>;
+
+echo $calc . "<br>";
 
 echo "x =" . $x . "<br>";
 echo "y =" . $y . "<br>";
